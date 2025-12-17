@@ -1,0 +1,11 @@
+Outils utilisés :
+- ChatGPT : génération d’une structure de site (pages HTML, navigation, et base CSS) et aide à la rédaction des contenus.
+
+Modifications manuelles réalisées :
+- Adaptation des textes au contexte réel : “Les Jeux de l’Université de Nanterre” (événement organisé avec la classe).
+- Modification des titres et reformulation de plusieurs passages.
+- Ajout/organisation des sections (programme, infos pratiques, galerie).
+- Intégration manuelle des images dans le dossier images/ et insertion des balises <img> dans les pages.
+
+Images :
+- Trois images au format .png ont été ajoutées dans le dossier images/ puis intégrées sur le site.
